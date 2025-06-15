@@ -5,7 +5,7 @@ Robocup@education PyLot-Robotics
 Tsukuba Challenge : CoderDojoMusashikosugi
 https://github.com/CoderDojoMusashikosugi
 
-Tokyo Metropolitan University B1
+Tokyo Metropolitan University
 
 A Beginner of Programmer.
 - ROS 2 
