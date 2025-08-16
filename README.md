@@ -1,6 +1,6 @@
 # Nyanziba  
 I 'm interested in lingustics and robotics.
-Robocup@education PyLot-Robotics
+Robocup@Home PyLot-Robotics
 
 Tsukuba Challenge : CoderDojoMusashikosugi
 https://github.com/CoderDojoMusashikosugi
