@@ -18,4 +18,4 @@ launguage
 - typescript
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyanziba)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyanziba&show_icons=true&theme=radical)
