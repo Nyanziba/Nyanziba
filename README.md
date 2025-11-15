@@ -1,16 +1,21 @@
 # Nyanziba  
 I 'm interested in lingustics and robotics.
-Robocup@Home PyLot-Robotics
+Robocup@Home PyLoT-Robotics
 
 Tsukuba Challenge : CoderDojoMusashikosugi
 https://github.com/CoderDojoMusashikosugi
 
 Tokyo Metropolitan University
 
-A Beginner of Programmer.
-- ROS 2 
+- ROS 2
+launguage
+- C
 - C++
-- Python ⭐️
+- Python
+- R
+- Matlab
+- javascript
+- typescript
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyanziba)](https://github.com/anuraghazra/github-readme-stats)
