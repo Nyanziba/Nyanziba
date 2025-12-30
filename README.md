@@ -8,14 +8,15 @@ https://github.com/CoderDojoMusashikosugi
 Tokyo Metropolitan University
 
 - ROS 2
+
 launguage
-- C
-- C++
-- Python
-- R
-- Matlab
-- javascript
-- typescript
+- C            ⭐︎
+- C++          ⭐︎⭐︎⭐︎
+- Python       ⭐︎⭐︎⭐︎⭐︎⭐︎
+- R            ⭐︎⭐︎⭐︎
+- Matlab       ⭐︎⭐︎
+- Javascript   ⭐︎
+- typescript   ⭐︎
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
