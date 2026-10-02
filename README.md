@@ -20,7 +20,7 @@ launguage
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" alt="Nyanziba's GitHub Stats" src="https://deploy-github-stats-extended.vercel.app/api?username=Nyanziba&show_icons=true&theme=radical&count_private=true" />
+    <img height="200" alt="Nyanziba's GitHub Stats" src="https://deploy-github-readme-stats.vercel.app/api?username=Nyanziba&show_icons=true&theme=radical&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200" alt="Nyanziba's Top Languages" src="https://deploy-github-readme-stats.vercel.app/api/top-langs?username=Nyanziba&layout=donut&langs_count=8&card_width=320&count_private=true&theme=radical" />
