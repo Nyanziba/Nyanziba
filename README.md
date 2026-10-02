@@ -35,8 +35,8 @@ launguage
   </a>
   <a href="https://github.com/stats-organization/github-stats-extended">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Nyanziba&layout=donut&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=jupyter%20notebook,html,makefile&theme=radical" />
-      <img alt="Nyanziba's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nyanziba&layout=donut&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=jupyter%20notebook,html,makefile" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Nyanziba&layout=donut&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=jupyter%20notebook,html,makefile,cmake,dockerfile,css,shell&theme=radical" />
+      <img alt="Nyanziba's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nyanziba&layout=donut&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=jupyter%20notebook,html,makefile,cmake,dockerfile,css,shell" />
     </picture>
   </a>
 </p>
